@@ -27,19 +27,15 @@
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">project_title</h3>
+<h3 align="center">Tackling Illegal Deforestation with Remote Sensing and Artificial Intelligence</h3>
 
   <p align="center">
-    project_description
-    <br />
-    <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
+    This project seeks to use Sentinel-2 satellite data to assist local authorities in the quantification and identification of deforestation in regions of the Brazilian Rainforest, using a case study of the Mato Grosso municipality.  
     <br />
     <br />
-    <a href="https://github.com/github_username/repo_name">View Demo</a>
-    ·
-    <a href="https://github.com/github_username/repo_name/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
-    ·
-    <a href="https://github.com/github_username/repo_name/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
+    <a href=https://github.com/JohnRuskinONLINE/GEOL0069-Final-Project-JRO"><strong>Explore the doc! »</strong></a>
+    <br />
+    <br />
   </p>
 </div>
 
@@ -76,26 +72,9 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+Illegal logging in the Brazilian Amazon, often for exportation of timber to the USA and Europe ,is a principal driver of deforestation, a disincentive to the establishment of a sustainable forest sector and tantamount to a crisis (Brack 2003, Gutierrez-Velez and MacDicken 2008, Reboredo 2013, Finer, Jenkins et al. 2014, Santos de Lima, Merry et al. 2018). A major obstacle facing the bodies of enforcement, be that of police or volunteer organisations, is the identification of those spaces where illegal logging is occurring (M. Condé, Higuchi et al. 2019). Previously, geo-intelligence utilising medium-resolution satellites (herein defined as pixel resolution =< 30m) has been used against illegal deforestation and timber laundering in the Brazilian Amazon (Perazzoni, Bacelar-Nicolau et al. 2020), though has historically relied on the manual trawling of data by analysts. In recent history, artificial intelligence has been applied to the mapping of roads in the Brazilian Amazon (Botelho Jr, Costa et al. 2022) and to monitor illegal logging in the tropical jungles of Indonesia (Mujetahid, Nursaputra et al. 2023), with medium-resolution satellites. Henceforth I will describe the utilisation of high-resolution (10m pixel resolution) satellites (Sentinel-2), the Google Colab (Google 2024) computational environment, Google Earth Engine (Google 2024), and the Copernicus Data Space Ecosystem (European Space Agency 2024) to quantify deforestation in the Mato Grosso region of the Brazilian Amazon using computationally-light Gaussian mixture model (henceforth GMM) machine learning algorithms to produce maps and co-ordinates of areas where illegal logging may be taking place.
 
 
-
-### Built With
-
-* [![Next][Next.js]][Next-url]
-* [![React][React.js]][React-url]
-* [![Vue][Vue.js]][Vue-url]
-* [![Angular][Angular.io]][Angular-url]
-* [![Svelte][Svelte.dev]][Svelte-url]
-* [![Laravel][Laravel.com]][Laravel-url]
-* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
-* [![JQuery][JQuery.com]][JQuery-url]
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
