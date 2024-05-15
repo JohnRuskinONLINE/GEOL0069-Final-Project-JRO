@@ -71,9 +71,16 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-
-Illegal logging in the Brazilian Amazon, often for exportation of timber to the USA and Europe ,is a principal driver of deforestation, a disincentive to the establishment of a sustainable forest sector and tantamount to a crisis (Brack 2003, Gutierrez-Velez and MacDicken 2008, Reboredo 2013, Finer, Jenkins et al. 2014, Santos de Lima, Merry et al. 2018). A major obstacle facing the bodies of enforcement, be that of police or volunteer organisations, is the identification of those spaces where illegal logging is occurring (M. Condé, Higuchi et al. 2019). Previously, geo-intelligence utilising medium-resolution satellites (herein defined as pixel resolution =< 30m) has been used against illegal deforestation and timber laundering in the Brazilian Amazon (Perazzoni, Bacelar-Nicolau et al. 2020), though has historically relied on the manual trawling of data by analysts. In recent history, artificial intelligence has been applied to the mapping of roads in the Brazilian Amazon (Botelho Jr, Costa et al. 2022) and to monitor illegal logging in the tropical jungles of Indonesia (Mujetahid, Nursaputra et al. 2023), with medium-resolution satellites. Henceforth I will describe the utilisation of high-resolution (10m pixel resolution) satellites (Sentinel-2), the Google Colab (Google 2024) computational environment, Google Earth Engine (Google 2024), and the Copernicus Data Space Ecosystem (European Space Agency 2024) to quantify deforestation in the Mato Grosso region of the Brazilian Amazon using computationally-light Gaussian mixture model (henceforth GMM) machine learning algorithms to produce maps and co-ordinates of areas where illegal logging may be taking place.
-
+<div style="text-align: justify;">
+  Illegal logging in the Brazilian Amazon, often for exportation of timber to the USA and Europe ,is a principal driver of deforestation, a disincentive to the establishment of a sustainable forest sector   and tantamount to a crisis (Brack 2003, Gutierrez-Velez and MacDicken 2008, Reboredo 2013, Finer, Jenkins et al. 2014, Santos de Lima, Merry et al. 2018). A major obstacle facing the bodies of             enforcement, be that of police or volunteer organisations, is the identification of those spaces where illegal logging is occurring (M. Condé, Higuchi et al. 2019). Previously, geo-intelligence            utilising  medium-resolution satellites (herein defined as pixel resolution =< 30m) has been used against illegal deforestation and timber laundering in the Brazilian Amazon (Perazzoni, Bacelar-Nicolau    et al. 2020), though has historically relied on the manual trawling of data by analysts. In recent history, artificial intelligence has been applied to the mapping of roads in the Brazilian Amazon         (Botelho Jr, Costa et al. 2022) and to monitor illegal logging in the tropical jungles of Indonesia (Mujetahid, Nursaputra et al. 2023), with medium-resolution satellites. Henceforth I will describe the   utilisation of high-resolution (10m pixel resolution) satellites (Sentinel-2), the Google Colab (Google 2024) computational environment, Google Earth Engine (Google 2024), and the Copernicus Data Space    Ecosystem (European Space Agency 2024) to quantify deforestation in the Mato Grosso region of the Brazilian Amazon using computationally-light Gaussian mixture model (henceforth GMM) machine learning      algorithms to produce maps and co-ordinates of areas where illegal logging may be taking place.
+</div>
+<div align="center">
+  <a href="https://github.com/JohnRuskinONLINE/GEOL0069-Final-Project-JRO">
+    <img src="images/Picture1.jpg" alt="Logo" width="450" height="300">
+  </a>
+<div style="text-align: justify;">
+Figure 1: Image of a recently deforested area in the Mato Grosso region of the Brazilian rainforest (Perobelli, 2021).
+</div>
 
 
 
