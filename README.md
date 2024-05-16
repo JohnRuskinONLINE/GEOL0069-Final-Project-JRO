@@ -81,4 +81,5 @@ Having acquired visual data (1), each pixel, with its individual RGB colour mode
 
 ## Getting Started!
 Now, having understood these two concepts we are ready to transition to our notebook, which is stored in this repository. If any additional understanding is required, below I have appended a video of myself running this code and talking through the process:
+[![GMM Clustering On Sentinel-2 Data Tutorial](https://img.youtube.com/vi/J8E9EVJR_Tk/0.jpg)](https://www.youtube.com/watch?v=J8E9EVJR_Tk)
 
