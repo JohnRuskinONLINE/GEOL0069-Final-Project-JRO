@@ -74,6 +74,9 @@ Most simply, Gaussian mixture modelling (henceforth GMM) is a probabilistic mode
     <img src="images/GMMDiagram.png" alt="Sentinel-2 Data Acquisition Diagram" width="1212" height="573">
   </a>
 <br />
-Having acquired visual data (1), each pixel, with its individual RGB colour model values, is appended as raw data to an array. These features having been identified, a trained GMM model is applied. This assigns each pixel, based on factors such as hue and vicinity to similarly described pixels, to one of two classes, or clusters (2). While the number of clusters you can define is theoretically infinite, for the purposes of this analysis, it was two. Then, once these values have been assigned, they can be visualised once more to show a classified image (3). 
+Having acquired visual data (1), each pixel, with its individual RGB colour model values, is appended as raw data to an array. These features having been identified, a trained GMM model is applied. This probalistically assigns each pixel, based on factors such as hue and vicinity to similarly described pixels, to one of two classes, or clusters (2). While the number of clusters you can define is theoretically infinite, for the purposes of this analysis, it was two. Then, once these values have been assigned, they can be visualised once more to show a classified image (3). 
+<br />
 
+## Getting Started!
+Now, having understood these two concepts we are ready to transition to our notebook, which is stored in this repository. If any additional understanding is required, below I have appended a video of myself running this code and talking through the process:
 
