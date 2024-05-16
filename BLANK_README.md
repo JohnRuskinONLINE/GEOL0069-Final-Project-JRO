@@ -57,12 +57,13 @@ Prior to running any of the Jupityr notebooks appended to this repository, I wou
 </div>
 
 ## Sentinel-2 
-<div style="text-align: justify;">
 Sentinel-2 is an Earth observation mission from the Copernicus Programme that acquires optical imagery at high spatial resolution over land and coastal waters. It has a multi-spectral instrument with 13 bands, ranging from visible light to short-waved infrared and can achieve spatial resolutions of 10m. In regard to the running of this code, we are concerned with the 2nd, 3rd, and 4th band, which correspond to red, green, and blue respectively. With these three bands, each of 10m resolution, we will produce high resolution, time-stamped satellite imagery that will form the basis of our analysis. 
-</div>
+<br />
 <div align="center">
   <a href="https://github.com/JohnRuskinONLINE/GEOL0069-Final-Project-JRO">
     <img src="images/S2Diagram.png" alt="Sentinel-2 Data Acquisition Diagram" width="800" height="600">
   </a>
+  <br />
+In this figure, we see Sentinel-2 passing its multi-spectral instrument over the Earth in 'tracks' (Panel 1), that align with the military grid reference system. Simply, for each grid it passes across, it measures the spectral responses for 13 optical bands (Panel 2), of these 13, the aforedescribed 3 are concatenated (Panel 3) to produce 10m resolution visualised results for every military grid reference of the planet (Panel 4).  
 
 
