@@ -56,3 +56,9 @@ Figure 1: Image of a recently deforested area in the Mato Grosso region of the B
 Prior to running any of the Jupityr notebooks appended to this repository, I would encourage the creation of: a Google account, for use therein of Google Colab, Google Drive, and Google Earth Engine and a Copernicus Space Database account. It will not be neccesary to have access to a 'Colab Pro' account for the running of this code. 
 </div>
 
+## Sentinel-2 
+<div style="text-align: justify;">
+  Sentinel-2 is an Earth observation mission from the Copernicus Programme that acquires optical imagery at high spatial resolution over land and coastal waters. It has a multi-spectral instrument with 13 bands, ranging from visible light to short-waved infrared and can achieve spatial resolutions of 10m. In regard to the running of this code, we are concerned with the 2nd, 3rd, and 4th band, which correspond to red, green, and blue respectively. With these three bands, each of 10m resolution, we will produce high resolution, time-stamped satellite imagery that will form the basis of our analysis. 
+</div>
+
+
