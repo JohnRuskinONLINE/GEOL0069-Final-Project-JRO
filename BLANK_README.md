@@ -64,6 +64,16 @@ Sentinel-2 is an Earth observation mission from the Copernicus Programme that ac
     <img src="images/S2Diagram.png" alt="Sentinel-2 Data Acquisition Diagram" width="800" height="600">
   </a>
   <br />
-In this figure, we see Sentinel-2 passing its multi-spectral instrument over the Earth in 'tracks' (Panel 1), that align with the military grid reference system. Simply, for each grid it passes across, it measures the spectral responses for 13 optical bands (Panel 2), of these 13, the aforedescribed 3 are concatenated (Panel 3) to produce 10m resolution visualised results for every military grid reference of the planet (Panel 4).  
+In this figure, we see Sentinel-2 passing its multi-spectral instrument over the Earth in 'tracks' (Panel 1), that align with the military grid reference system. Simply, for each grid it passes across, it measures the spectral responses for 13 optical bands (Panel 2), of these 13, the aforedescribed 3 are concatenated (Panel 3) to produce 10m resolution visualised results for every military grid reference of the planet (Panel 4). This is the data that we will be using in our subsequent analysis.
+<br />
+
+## Gaussian Mixture Model Clustering
+Most simply, Gaussian mixture modelling (henceforth GMM) is a probabilistic model that assumes all the data points are generated from a mixture of a finite number of Gaussian distributions with unknown parameters.
+<div align="center">
+  <a href="https://github.com/JohnRuskinONLINE/GEOL0069-Final-Project-JRO">
+    <img src="images/GMMDiagram.png" alt="Sentinel-2 Data Acquisition Diagram" width="1212" height="573">
+  </a>
+<br />
+Having acquired visual data (1), each pixel, with its individual RGB colour model values, is appended as raw data to an array. These features having been identified, a trained GMM model is applied. This assigns each pixel, based on factors such as hue and vicinity to similarly described pixels, to one of two classes, or clusters (2). While the number of clusters you can define is theoretically infinite, for the purposes of this analysis, it was two. Then, once these values have been assigned, they can be visualised once more to show a classified image (3). 
 
 
