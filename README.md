@@ -83,3 +83,26 @@ Having acquired visual data (1), each pixel, with its individual RGB colour mode
 Now, having understood these two concepts we are ready to transition to our notebook, which is stored in this repository. If any additional understanding is required, below I have appended a video of myself running this code and talking through the process:
 [![GMM Clustering On Sentinel-2 Data Tutorial](https://img.youtube.com/vi/J8E9EVJR_Tk/0.jpg)](https://www.youtube.com/watch?v=J8E9EVJR_Tk)
 
+## Citations
+
+Botelho Jr, J., et al. (2022). "Mapping roads in the Brazilian Amazon with artificial intelligence and Sentinel-2." Remote Sensing 14(15): 3625.	
+
+Brack, D. (2003). "Illegal logging and the illegal trade in forest and timber products." International Forestry Review 5(3): 195-198.
+
+Finer, M., et al. (2014). "Logging concessions enable illegal logging crisis in the Peruvian Amazon." Scientific reports 4(1): 4719.	
+
+Gutierrez-Velez, V. H. and K. MacDicken (2008). "Quantifying the direct social and governmental costs of illegal logging in the Bolivian, Brazilian, and Peruvian Amazon." Forest Policy and Economics 10(4): 248-256.	
+
+Lee, S., et al. (2020). "Machine learning approaches to retrieve pan-Arctic melt ponds from visible satellite imagery." Remote Sensing of Environment 247: 111919.
+
+Mujetahid, A., et al. (2023). "Monitoring Illegal Logging Using Google Earth Engine in Sulawesi Selatan Tropical Forest, Indonesia." Forests 14(3): 652.	
+
+Perazzoni, F., et al. (2020). "Geointelligence against illegal deforestation and timber laundering in the Brazilian Amazon." ISPRS International Journal of Geo-Information 9(6): 398.	
+
+Reboredo, F. (2013). "Illegal wood in Europe: a review." International Forestry Review 15(2): 218-229.
+
+Santos de Lima, L., et al. (2018). "Illegal logging as a disincentive to the establishment of a sustainable forest sector in the Amazon." PloS one 13(12): e0207855.	
+
+Scikit-learn: Machine Learning in Python, Pedregosa et al., JMLR 12, pp. 2825-2830, 2011.
+
+Verma, P. and S. Patil (2023). "Machine Learning for Cloud Cover Detection Using Multispectral Satellite Images." Annals of Data Science 10(6): 1543-1557.	
